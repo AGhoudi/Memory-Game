@@ -10,6 +10,10 @@ J'ai crée un jeu de memory game en HTML, CSS et JAVASCRIPT.
 Le principe du jeu est simple, lors d'un clic on retourne une carte, l'objectif du jeu est de retourner une paire de carte identique.
 Il y a un nombre de paires de cartes, une fois qu'on les à toutes trouvées, le jeu est fini.
 
+# __Visuel__
+
+[![memory.jpg](https://i.postimg.cc/XvK18NBm/memory.jpg)](https://postimg.cc/yJdT6HPy)
+
 ## __Stack utilisé :__
 
 HTML - CSS - Javascript
