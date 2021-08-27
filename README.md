@@ -20,4 +20,4 @@ Il y a un nombre de paires de cartes, une fois qu'on les à toutes trouvées, le
 
 <p align=center>Voici un lien pour tester le jeu:
 
-  https://codepen.io/Link1986/pen/ZmoWqL</p>
+  <a href="https://codepen.io/Link1986/pen/ZmoWqL" rel="noreferrer noopener" target="_blank">memory-game</a></p>
