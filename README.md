@@ -1,4 +1,4 @@
-# Memory-Game
+<h1 align=center> Memory-Game </h1>
 
 ## __Objectif du projet :__ 
 Création d'un jeu de memory game en javascript
