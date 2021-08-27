@@ -12,12 +12,12 @@ Il y a un nombre de paires de cartes, une fois qu'on les à toutes trouvées, le
 <h2 align=center>👁️ Visuel :</h2>
 <div align=center><img src="https://i.postimg.cc/XvK18NBm/memory.jpg" alt="visuel du jeu"</div>
 
-## __Stack utilisé :__
+<h2 align=center>💻 Stack utilisé :</h2>
 
-HTML - CSS - Javascript
+<p align=center>HTML - CSS - Javascript</p>
 
-## __Lien web du projet :__
+<h2 align=center>🌐 Lien web du projet :</h2>
 
-Voici un lien pour tester le jeu:
+<p align=center>Voici un lien pour tester le jeu:
 
-https://codepen.io/Link1986/pen/ZmoWqL
+  https://codepen.io/Link1986/pen/ZmoWqL</p>
