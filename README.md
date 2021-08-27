@@ -1,7 +1,8 @@
-<h1 align=center> Memory-Game </h1>
+<h1 align=center>Memory-Game</h1>
 
-## __Objectif du projet :__ 
-Création d'un jeu de memory game en javascript
+<h2 align=center>Objectif du projet :</h2>
+<p align=center>Il s'agissait de créer un jeu de memory game, en utilisant le langage javascript.</p>
+
 
 ## __Description :__
 
