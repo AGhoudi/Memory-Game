@@ -3,13 +3,12 @@
 <h2 align=center>Objectif du projet :</h2>
 <p align=center>Il s'agissait de créer un jeu de memory game, en utilisant le langage javascript.</p>
 
+<h2 align=center>Description :</h2>
 
-## __Description :__
-
-Dans le cadre de ma recherche d'approfondissement, de mes connaissances en javascript:
-J'ai crée un jeu de memory game en HTML, CSS et JAVASCRIPT.
-Le principe du jeu est simple, lors d'un clic on retourne une carte, l'objectif du jeu est de retourner une paire de carte identique.
-Il y a un nombre de paires de cartes, une fois qu'on les à toutes trouvées, le jeu est fini.
+<p align=center>Dans le cadre de ma recherche d'approfondissement, de mes connaissances en javascript:</br>
+J'ai crée un jeu de memory game en HTML, CSS et JAVASCRIPT.</br>
+Le principe du jeu est simple, lors d'un clic on retourne une carte, l'objectif du jeu est de retourner une paire de carte identique.</br>
+Il y a un nombre de paires de cartes, une fois qu'on les à toutes trouvées, le jeu est fini.</p>
 
 ## __Visuel :__
 
