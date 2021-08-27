@@ -2,7 +2,7 @@
 <h2 align=center>🎯Objectif du projet :</h2>
 <p align=center>Il s'agissait de créer un jeu de memory game, en utilisant le langage javascript.</p>
 
-<h2 align=center>Description :</h2>
+<h2 align=center>📝Description :</h2>
 
 <p align=center>Dans le cadre de ma recherche d'approfondissement, de mes connaissances en javascript:</br>
 J'ai crée un jeu de memory game en HTML, CSS et JAVASCRIPT.</br>
